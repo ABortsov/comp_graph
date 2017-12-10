@@ -1,0 +1,9 @@
+C:\Users\fourn\Desktop\Учеба\3 курс 1 семестр\Компьютерная графика\Program\Figures\Figures\bin\Debug\Figures.exe.config
+C:\Users\fourn\Desktop\Учеба\3 курс 1 семестр\Компьютерная графика\Program\Figures\Figures\bin\Debug\Figures.exe
+C:\Users\fourn\Desktop\Учеба\3 курс 1 семестр\Компьютерная графика\Program\Figures\Figures\bin\Debug\Figures.pdb
+C:\Users\fourn\Desktop\Учеба\3 курс 1 семестр\Компьютерная графика\Program\Figures\Figures\obj\Debug\Figures.csprojResolveAssemblyReference.cache
+C:\Users\fourn\Desktop\Учеба\3 курс 1 семестр\Компьютерная графика\Program\Figures\Figures\obj\Debug\Figures.Properties.Resources.resources
+C:\Users\fourn\Desktop\Учеба\3 курс 1 семестр\Компьютерная графика\Program\Figures\Figures\obj\Debug\Figures.csproj.GenerateResource.Cache
+C:\Users\fourn\Desktop\Учеба\3 курс 1 семестр\Компьютерная графика\Program\Figures\Figures\obj\Debug\Figures.exe
+C:\Users\fourn\Desktop\Учеба\3 курс 1 семестр\Компьютерная графика\Program\Figures\Figures\obj\Debug\Figures.pdb
+C:\Users\fourn\Desktop\Учеба\3 курс 1 семестр\Компьютерная графика\Program\Figures\Figures\obj\Debug\Figures.Form1.resources
